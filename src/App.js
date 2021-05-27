@@ -6,7 +6,7 @@ import DispCount from './Components/DispCount';
 
 function App() {
   return (
-      <Provider store= {store}>
+      <Provider Store= {Store}>
         <div className="App">
           <div className="outerContainer" style={{float: 'left'}}>
             <Button />
